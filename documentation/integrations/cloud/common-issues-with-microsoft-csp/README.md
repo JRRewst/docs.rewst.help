@@ -131,4 +131,4 @@ See [Microsoft Documentation](https://learn.microsoft.com/en-us/graph/api/user-u
 
 In a delegated scenario the Rewst enterprise applications need to have the 'Directory.AccessAsUser.All' permission (and corresponding GDAP roles)
 
-In a application call scenario(MSP Level/Integration installed at the customer level standalone from CSP) the application must be assigned a priviledged role such as Authentication Administrator or Priviledged Authentication Administrator.
+In a application call scenario(MSP Level/Integration installed at the customer level standalone from CSP) the application must be assigned a privileged role such as Authentication Administrator or Privileged Authentication Administrator.
